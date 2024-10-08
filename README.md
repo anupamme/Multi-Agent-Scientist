@@ -78,7 +78,7 @@ Output: Updated data/ideas.json with originality status.
 ## 4. Patent Writing Agent
 Purpose: Drafts patent applications for original ideas.
 
-Acknowledgments
+# Acknowledgments
 OpenAI: For providing powerful language models.
 arXiv: For access to pre-print scientific papers.
 PubMed: For access to biomedical literature.
