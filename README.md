@@ -86,4 +86,4 @@ Patent Offices: For providing patent search APIs.
 Contact
 For questions or support, please contact [angelovskiandrej5@gmail.com].
 
-Note: This project is intended for educational and research purposes for now. 
+Note: This project is intended for educational and research purposes only. 
