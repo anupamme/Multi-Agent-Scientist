@@ -45,16 +45,9 @@ OpenAI account with access to o1-preview or o1-mini models
 NCBI Entrez email registration for PubMed API access
 API keys for patent databases (if applicable)
 
-The script will sequentially execute the following agents:
 
-Literature Review Agent: Fetches and summarizes scientific papers.
-Scientific Research Agent: Generates new scientific ideas.
-Patent Search Agent: Checks the originality of each idea.
-Patent Writing Agent: Drafts patent applications for original ideas.
-
-
-Agents and Their Functionality
-1. Literature Review Agent
+# Agents and Their Functionality
+## 1. Literature Review Agent
 Purpose: Collects and summarizes scientific papers relevant to the chosen topic.
 
 Data Sources: arXiv, PubMed
@@ -64,7 +57,7 @@ Summarizes abstracts using OpenAI's language models.
 Compiles summaries into a cohesive literature review.
 Output: outputs/literature_review.md
 
-2. Scientific Research Agent
+## 2. Scientific Research Agent
 Purpose: Generates new scientific ideas based on the literature review.
 
 Input: The literature review from the first agent.
@@ -73,7 +66,7 @@ Analyzes the literature review to identify gaps and opportunities.
 Generates novel ideas using AI models.
 Output: data/ideas.json
 
-3. Patent Search Agent
+## 3. Patent Search Agent
 Purpose: Determines the originality of generated ideas by searching existing patents.
 
 Input: List of generated ideas.
@@ -82,7 +75,7 @@ Searches patent databases (e.g., USPTO, EPO) for each idea.
 Marks ideas as original ('y') or not ('n').
 Output: Updated data/ideas.json with originality status.
 
-4. Patent Writing Agent
+## 4. Patent Writing Agent
 Purpose: Drafts patent applications for original ideas.
 
 Acknowledgments
