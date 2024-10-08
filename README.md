@@ -71,7 +71,7 @@ Purpose: Determines the originality of generated ideas by searching existing pat
 
 Input: List of generated ideas.
 Functionality:
-Searches patent databases (e.g., USPTO, EPO) for each idea.
+Searches patent databases (e.g., USPTO, EPO, Google patents) for each idea.
 Marks ideas as original ('y') or not ('n').
 Output: Updated data/ideas.json with originality status.
 
