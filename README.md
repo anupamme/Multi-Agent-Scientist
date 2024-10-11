@@ -83,7 +83,5 @@ OpenAI: For providing powerful language models.
 arXiv: For access to pre-print scientific papers.
 PubMed: For access to biomedical literature.
 Patent Offices: For providing patent search APIs.
-Contact
-For questions or support, please contact [angelovskiandrej5@gmail.com].
 
 Note: This project is intended for educational and research purposes only. 
