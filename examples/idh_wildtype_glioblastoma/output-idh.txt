@@ -1,0 +1,21 @@
+- IDH1 R132H mutation
+- EGFR amplification or EGFRvIII mutation
+- TERT promoter mutations
+- FGFR3-TACC3 fusion
+- BRAF V600E mutation
+- NTRK gene fusions
+- MET fusions
+- CDK4 or CDK6 amplification
+- CD46 immune checkpoint
+- CD36 activity
+- MGMT promoter methylation status
+- O6-methylguanine-DNA methyltransferase (MGMT)
+- O6-methylguanine
+- N7-guanine and N3-adenine sites
+- N7-guanine sites
+- N3-adenine sites
+- O6-alkylguanine-DNA alkyltransferase activity
+- O6-methylguanine-DNA alkyltransferase (MGMT)
+- O6-methylguanine-DNA methyltransferase (MGMT)
+- O6-methylguanine-DNA methyltransferase (MGMT)
+

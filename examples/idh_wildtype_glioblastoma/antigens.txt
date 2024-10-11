@@ -1,0 +1,581 @@
+-
+- 2B4
+- 2-HG
+- 5-Hydroxytryptamine (5-HT) receptor 2A (HTR2A)
+- 6-[18F]-fluoro-3,4-dihydroxy-L-phenylalanine ([18F]FDOPA)
+- +7/−10
+- +7/-10 chromosome copy number changes
+- ACE
+- Activin A
+- ACTN4
+- ACVR1
+- Adenylate cyclase 2 (ADCY2)
+- AKIP1
+- AKT1
+- ALDH3A1
+- Aliphatic amino acids (valine, leucine, isoleucine)
+- ALK
+- Angiogenin
+- Angiopoietin 1
+- Angiopoietin 2
+- Annexin A2
+- Antigen Processing and Presentation (APP)
+- ANXA3
+- ANXA7
+- APC
+- APOC1
+- ARG1
+- ARPC1B
+- ASS1
+- ATIIR1
+- ATM kinase
+- ATRX
+- ATRX (Alpha thalassemia/mental retardation syndrome X-linked gene)
+- B2M
+- B7-H3
+- B7-H3 (CD276)
+- BAX
+- B cell biomarkers (CD19 and CD79A)
+- Bcl-3
+- BCL3 (B-cell CLL/lymphoma 3)
+- BCL7A
+- Bevacizumab (BVZ)
+- Bmi1
+- BMI1
+- B-Raf
+- BRAF
+- BRAFnon-V600E
+- BRAF V600E
+- BRAFV600E
+- BRAF V600E mutation
+- BRAF(V600)-Mutant Gliomas
+- BTLA
+- C1RL (Complement C1q Receptor-Like)
+- Carbonic anhydrase 9 (CA9)
+- Carbonic anhydrase IX (CA IX)
+- Carmustine
+- Carmustine wafer implants
+- Cathepsin B
+- Cathepsin D
+- CBD
+- CCL2
+- CCL3
+- CD10
+- CD105
+- CD11b
+- CD123
+- CD127
+- CD133
+- CD133/CD44
+- CD134
+- CD137
+- CD137L
+- CD138
+- CD14
+- CD146
+- CD15
+- CD152
+- CD152L
+- CD154
+- CD155
+- CD16+
+- CD16−
+- CD163
+- CD19
+- CD2
+- CD20
+- CD206
+- CD209
+- CD226
+- CD24
+- CD25
+- CD253
+- CD253L
+- CD27
+- CD273
+- CD274
+- CD276
+- CD278
+- CD278L
+- CD279
+- CD28
+- CD282
+- CD28L
+- CD3
+- CD3+
+- CD300e
+- CD31
+- CD33
+- CD34
+- CD366
+- CD39
+- CD4
+- CD40
+- CD40L
+- CD44
+- CD45
+- CD45RO
+- CD47
+- CD48
+- CD4+ immune cell biomarker (CD4)
+- CD56
+- CD59
+- CD66b
+- CD68
+- CD70
+- CD73
+- CD8
+- CD8+
+- CD80
+- CD80L
+- CD83
+- CD83L
+- CD86
+- CD86L
+- CD8A
+- CD94/NKG2A
+- CD96
+- CDH1
+- CDK4
+- CDK6
+- CDKN1A
+- CDKN2A
+- CDKN2A/2B
+- CDKN2A/B
+- CDKN2B
+- CHD5
+- Cholecystokinin receptors (CCKR)
+- Choline (Cho)
+- CLIC1
+- c-Met
+- COL1A1
+- COL1A2
+- COL5A1
+- Creatine (Cr)
+- CREBBP
+- CRIP2
+- CSF1
+- CSTA (Cystatin A)
+- CTLA-4
+- CTNNB1
+- CXCL12β (C-X-C motif chemokine ligand 12β)
+- CXCR1
+- CXCR4
+- CXCR4 (C-X-C motif chemokine receptor 4)
+- Delta-24-E1A
+- Dendritic cell biomarkers (HLA-DPB1, HLA-DQB1, HLA-DRA, HLA-DPA1, CD1C, NRP1, and ITGAX)
+- DGKI Methylation Status
+- DLL4
+- DNA mismatch repair deficiency
+- E1A
+- E2F
+- E2F transcription factors
+- E-cadherin
+- EGFR
+- EGFR amplification
+- EGFR amplification and rearr
+- EGFR amplification and rearrangement
+- EGFR (epidermal growth factor receptor)
+- EGFR (Epidermal Growth Factor Receptor)
+- EGFR gene amplification
+- EGFR overexpression
+- EGFR type III mutant
+- EGFRvIII
+- EGR4
+- Endostatin
+- Endothelin 1
+- EpCAM
+- EphA2
+- Epidermal Growth Factor Receptor
+- Epigenetic targets (DNA methylation, chromatin modeling, and histone modifications signaling)
+- ERBB2
+- ERK-RAS-RAF mitogen-activated protein kinase pathway (BRAF mutation)
+- EZH2
+- EZHIP
+- FABP5 (Fatty Acid Binding Protein 5)
+- FALSG
+- FANCA
+- FAP (Fibroblast activation protein-α)
+- FasL
+- FBP1
+- FBXW7
+- FGFR3
+- FGFR3-TACC3
+- FGFR3-TACC3 fusion
+- Fibroblast activation protein (FAP)
+- Fibroblast Activation Protein (FAP)
+- Fibronectin 1 (FN1)
+- Fms related receptor tyrosine kinase 1 (FLT1, VEGF receptor 1)
+- FN1
+- Forkhead box M1 (FOXM1)
+- FOXG1
+- FOXM1
+- FOXP3
+- Gastrin-releasing peptide receptors (GRPR)
+- GD2
+- GD2 pathway
+- GFAP
+- GFAP (glial fibrillary acidic protein)
+- Glial fibrillary acidic protein (GFAP)
+- Glial Fibrillary Acidic Protein (GFAP)
+- Glioma stem cell (GSC) markers
+- Glucagon-like peptide 1 (GLP-1) receptors
+- GLUT1
+- GLUT1 (glucose transporter 1)
+- GLUT3
+- Glutamate carboxypeptidase II (Prostate-Specific Membrane Antigen)
+- Glutamate (Glx)
+- Glutamine (Gln)
+- Glycine (Gly)
+- gp96 (glucose-regulated protein 96)
+- GPR77
+- GSK3β
+- H3 G34
+- H3 K27M
+- H3-wildtype
+- HER2
+- HER2 (human epidermal growth factor receptor 2)
+- HES1
+- HEY1
+- HGF
+- HGF/SF
+- HIF1A
+- High microsatellite instability
+- High tumor mutational burden
+- Histone H3.3 K27M mutation
+- HK2
+- HLA-A/B/C
+- HLA-DRA
+- HLA-E
+- HLA-G
+- HLA-I
+- Homeobox Protein C9 (HOXC9)
+- HOTAIR
+- HOXA5
+- HOXD4
+- HSF1
+- HSP90 (heat shock protein 90)
+- HSPA5
+- HVEM
+- Hypoxia-inducible factor-1 alpha (HIF-1α)
+- ICOS
+- IDH1
+- IDH1/2
+- IDH1/2 (Isocit
+- IDH1/2 (Isocitrate dehydrogenase genes 1 and 2)
+- IDH1 and IDH2
+- IDH1 G105G SNP
+- IDH1-Mutant Solid Tumors
+- IDH1 R132H
+- IDH2
+- IDH (isocitrate dehydrogenase)
+- IDH-mutant tumor cells
+- IDH mutations
+- IDH-wildtype
+- IDH-wildtype glioblastomas with FGFR3-TACC3 fusions
+- IDO
+- IDO-1
+- IGF-1
+- IGF-2
+- IGF2R
+- IGF-binding protein 2 (IGFBP2)
+- IGFBP2
+- IGFBP5
+- IGF-receptor
+- IKK
+- IKKα
+- IKKβ
+- IKKγ
+- IL-10
+- IL10
+- IL-13Ra2
+- IL13RA2
+- IL13Rα2
+- IL8
+- Immunosuppressive Genes
+- Integrin αvβ3
+- Interleukin 8 (IL8)
+- IPH2101
+- IPH2201
+- IRF8
+- Isocitrate dehydrogenase 1 and 2 (IDH1/2)
+- Isocitrate dehydrogenase (IDH)
+- ITGB2
+- IκBɛ
+- IκBα
+- IκBβ
+- JARID 1B
+- Ki-67
+- Ki67
+- KIF20A
+- KIRs (Killer inhibitory receptors)
+- KIT
+- Klf4
+- LAG-3
+- LAG3
+- LAMB1
+- LAMC1
+- LANCL2 (Lanthionine Synthetase C-Like 2)
+- LDH-A
+- LDL Receptor
+- LGALS1
+- LIF
+- Lipid + lactate
+- lirilumab
+- LITAF
+- Lomustine
+- LRRC3
+- M1 macrophage biomarkers (IRF5 and PTGS2)
+- M2 macrophage biomarkers (CD163, VSIG4, and MS4A4A)
+- MALAT1
+- MARCO
+- Matrix metallopeptidase 8 (MMP8)
+- MCT-1
+- MDM2
+- MDM4
+- MEG3
+- MEK/ERK
+- Melanocortin 1 (MC1) receptors
+- MET
+- Metabotropic glutamate receptor 1 (GRM1)
+- Methylation of MGMT promoter
+- MGMT
+- MGMT (O(6)-Methylguanine-DNA Methyltransferase)
+- MGMTp
+- MGMT promoter methylation
+- MHC class I
+- MICA
+- MICB
+- miR-10b
+- miR-21
+- MIR34AHG
+- MLH1
+- MMP2
+- MMP9
+- MSH2
+- MSH6
+- MTAP
+- MTHFR rs1
+- MTHFR rs1801133 Polymorphism
+- mTORSer2448
+- MYC
+- MYCN
+- Myoinositol (mI)
+- N-acetylaspartate (NAA)
+- Nanog
+- N-cadherin
+- NEAT1
+- Nestin
+- Neural stem cell (NSC) markers
+- Neurokinin 1 (NK1) receptors
+- Neuroligin-3 (NLGN3)
+- Neuron-specific enolase (NSE)
+- Neurotensin (NT) receptors
+- Neutrophil biomarker (ITGAM)
+- NF1
+- NFE2L2
+- NF-κB
+- NIK
+- NKG2A
+- NKG2D
+- NOD2
+- Notch
+- Notch 1
+- NOTCH1
+- Notch 4
+- NRP1
+- NTRK
+- NTRK1
+- NTRK family
+- NUSAP1
+- O-(2-[18F]fluoroethyl)-L-tyrosine ([18F]FET)
+- O6-Methylguanine–DNA Methyltransferase
+- O-6-methylguanine-DNA methyltransferase (MGMT)
+- O6-methylguanine-DNA-methyltransferase (MGMT)
+- OAS1
+- Oct4
+- OCT4
+- Olig-2
+- OLIG2
+- Oligodendrocyte lineage genes (OLIG)
+- Oligodendrocyte precursor cell (OPC) markers
+- OX40
+- P100
+- P105
+- p21
+- p-38α
+- P50
+- P52
+- p53
+- P53
+- P65
+- P-AKT
+- PAPPA
+- PARP-1
+- PBK
+- PD-1
+- PD1 (PDCD1)
+- PD1/PD-L1
+- PD-1/PD-L1 pathway
+- PDGF
+- PDGFR
+- PDGFRA
+- PDH
+- PDK1
+- PD-L1
+- PD-L1 (programmed cell death ligand 1)
+- PD-L2
+- PD-L2 (programmed cell death ligand 2)
+- P-ERK
+- PI3K/AKT
+- PIK3CA
+- PKM2
+- Platelet-derived growth factor (PDGF)
+- Platelet-Derived Growth Factor Receptor Alpha
+- PLEKHG5
+- PMS2
+- Poly(ADP-ribose) polymerase (PARP)
+- PRAME
+- Prostate-specific membrane antigen (PSMA)
+- Protein kinase D1 (PRKD1)
+- PRR
+- P-STAT3
+- PTEN
+- PTPN11
+- PTPRJ
+- PTPRZ1
+- PTPRZ1-AFAP1L2/XB130
+- PTPRZ1-Akt
+- PTPRZ1-ALK
+- PTPRZ1-BRAF
+- PTPRZ1-contactin
+- PTPRZ1-c-Src
+- PTPRZ1-ErbB4
+- PTPRZ1-ETV1
+- PTPRZ1-F3
+- PTPRZ1-FGF2
+- PTPRZ1-Fyn
+- PTPRZ1-GIT1/Cat-1
+- PTPRZ1-IL34
+- PTPRZ1-MET
+- PTPRZ1-MK
+- PTPRZ1-N-CAM
+- PTPRZ1-NFAM1
+- PTPRZ1-NFκΒ
+- PTPRZ1-Ng-CAM
+- PTPRZ1-NYAP2
+- PTPRZ1-p190 Rho GAP
+- PTPRZ1-paxillin
+- PTPRZ1-PI3K
+- PTPRZ1-PTN
+- PTPRZ1-TrkA
+- PTPRZ1-TrkB
+- PTPRZ1-VacA
+- PTPRZ1-VEGFA
+- PTPRZ1-voltage-gated sodium channels
+- PTPRZ1-α4β1
+- PTPRZ1-α6β1
+- PTPRZ1-ανβ3
+- PTPRZ1-β3 integrin
+- PTPRZ1-β-adducin
+- Rb
+- RB1
+- RB-E2F
+- Retinoblastoma protein (Rb)
+- RGD-fiber
+- RIP2
+- ROS
+- S-100
+- S100
+- S100A4
+- S100A8
+- S100A9
+- S100B
+- S-100 protein
+- SALL4
+- Serpin E1
+- SHH
+- SLC17A7
+- SLC18A2
+- SLC1A5
+- SLC6A1
+- SNAI2
+- Snail
+- SOCS3
+- Somatostatin receptors (SSTR)
+- Sonic Hedgehog pathway
+- Sox2
+- SOX-2
+- SOX2
+- Spermidine/spermine N1-acetyltransferase 1 (SAT1)
+- SPINT2/HAI-2
+- SPP1
+- Sry-related HMG-box factors
+- STAG2
+- STAT3
+- STING
+- STXVP2
+- SUZ12
+- Synaptophysin
+- System A Amino Acid Transport PET Imaging with C-11-MeAIB
+- TACC3
+- Tau
+- TCF3
+- TEK
+- Temozolomide (TMZ)
+- TEMs
+- TERT
+- TERTp
+- TERT promoter
+- TERT promoter mutation
+- TERT promoter mutations
+- TERT (Telomerase reverse transcriptase)
+- TERT (Telomerase Reverse Transcriptase)
+- TGF-beta
+- TGF-β
+- Thrombospondin-3 (TSP3)
+- Thyroid transcription factor 1 (TTF1)
+- TIE2
+- TIE2-expressing macrophages
+- TIE2-expressing monocytes
+- TIGIT
+- TIM-3
+- TIMP1
+- TIMP metallopeptidase inhibitor 1 (TIMP1)
+- TNC
+- TNC (Tenascin-C)
+- TNF
+- TP53
+- TP53 and PTEN mutations
+- TrkA-B
+- Tryptase
+- Tryptophanyl-tRNA synthetase (WARS)
+- TSPO
+- Tumor protein 53 (p53)
+- Twist
+- TYRO3
+- TYROBP
+- UBE2S
+- UBXN1
+- Vasoactive intestinal peptide (VIP) receptors
+- VEGF
+- VEGF-A
+- VEGFA
+- VEGFR
+- VEGFR1
+- VEGFR2
+- VEGF/VEGFR pathway
+- VIM
+- Vimentin
+- VISTA
+- Wnt
+- WNT/β-catenin
+- XIST
+- YAP-Hippo axis
+- Y-box Binding Protein-1 (YB-1)
+- YHWA/14-3-3 family
+- ZEB1
+- αvβ3 integrin
+- β-catenin
+- Δ24-E1A
+- ΔE1A
